@@ -1,0 +1,12 @@
+streamlit
+pandas
+streamlit-aggrid
+gspread
+oauth2client
+streamlit-calendar
+pyarrow
+emoji
+reportlab
+mysql-connector-python
+python-dotenv
+matplotlib
