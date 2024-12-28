@@ -10,3 +10,4 @@ reportlab
 mysql-connector-python
 python-dotenv
 matplotlib
+cryptography
